@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
-## DevOps Culture and Practice <!-- {_class="course-title"} -->
+## DevOps Culture  <!-- {_class="course-title"} -->
 ### Everything As Code <!-- {_class="title-color"} -->
 DO250 <!-- {_class="title-color"} -->
 
@@ -31,7 +31,7 @@ The idea of Everything As Code (EaC) engages each layer of the stack in writing 
 
 
 ### Everything As Code
-#### _What Is It?_
+#### _Why use Everything As Code approach?_
 EaC provides our infrastructures, workflows, and services a mature, programmatic, and resilient pattern:
 
 * Secure and upgradable
@@ -46,7 +46,7 @@ EaC provides our infrastructures, workflows, and services a mature, programmatic
 
 
 ### Everything As Code
-#### Why use Everything As Code approach?
+#### What are the benefits of the Everything As Code approach?
 Benefits of using Everything as Code principles:
 
 * **Knowledge and understanding of the environment**: Provides a complete insight into your infrastructure, configurations, and policies without manually updating diagrams.

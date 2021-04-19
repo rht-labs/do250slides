@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png" -->
-## DevOps Culture and Practice <!-- {_class="course-title"} -->
+## DevOps Culture <!-- {_class="course-title"} -->
 ### Continuous Integration, Delivery, and Deployment <!-- {_class="title-color"} -->
 DO250 <!-- {_class="title-color"} -->
 
@@ -141,11 +141,6 @@ to production
 
 ## Summary
 ![Pipeline](images/cicd/cdcd.png)
-
-
-
-<!-- .slide: id="attack-pipelines"-->
-## The Attack of the Pipelines
 
 
 
