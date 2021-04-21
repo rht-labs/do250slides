@@ -30,6 +30,11 @@ The idea of Everything As Code (EaC) engages each layer of the stack in writing 
 
 
 
+### What is Everything?
+![Jenkins](images/everything.png)
+
+
+
 ### Everything As Code
 #### _Why use Everything As Code approach?_
 EaC provides our infrastructures, workflows, and services a mature, programmatic, and resilient pattern:
@@ -51,14 +56,8 @@ Benefits of using Everything as Code principles:
 
 * **Knowledge and understanding of the environment**: Provides a complete insight into your infrastructure, configurations, and policies without manually updating diagrams.
 * **Automated Monitoring**: Results in the ability to automatically deploy and update components without any manual intervention.
-* **Infrastructure on Demand**: Deploy infrastructure whenever it's required by ntegrating into a DevOps pipeline to dynamically build and destroy environments as the pipeline executes.
+* **Infrastructure on Demand**: Deploy infrastructure whenever it's required by integrating into a DevOps pipeline to dynamically build and destroy environments as the pipeline executes.
 * **GitOps**: A bridge for development and production where Git is the source of truth all code can be analyzed for potential errors. Version control simplifies rollbacks.
 * **Consistency**: Migrations, deployments and configuration changes are easy to replicate.
 
 
-
-<!-- .slide: data-background-image="images/chef-background.png", class="white-style" -->
-### DevOps practices used in this section:
-- [Continuous Integration](https://openpracticelibrary.com/practice/continuous-integration/)
-- [Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery)
-- [Everything as Code](https://openpracticelibrary.com/practice/everything-as-code/)

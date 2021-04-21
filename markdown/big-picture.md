@@ -16,7 +16,7 @@ A simple practice used to visualise all the steps that a software pipeline goes 
 
 
 ### The Big Picture
-#### An Example_
+#### An Example
 ![Jenkins](images/bp-6-return-monitoring.jpg)
 
 
