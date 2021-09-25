@@ -11,11 +11,11 @@ the reveal.js source code.
 
 2. Clone the reveal.js repository
 [source, sh]
-[user@host path]$ git clone https://github.com/rht-labs/enablement-docs
+[user@host path]$ git clone https://github.com/rht-labs/do250Slides
 
 3. Navigate to the slides folder
 [source, sh]
-[user@host path]$ cd slides
+[user@host path]$ cd do250Slides
 
 4. Install `npm` dependencies:
 [source, sh]
