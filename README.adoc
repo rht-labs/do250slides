@@ -13,7 +13,7 @@ the reveal.js source code.
 [source, sh]
 [user@host path]$ git clone https://github.com/rht-labs/do250Slides
 
-3. Navigate to the slides folder
+3. Navigate to the root folder
 [source, sh]
 [user@host path]$ cd do250Slides
 
